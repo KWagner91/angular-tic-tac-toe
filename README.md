@@ -1,6 +1,6 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12, based on the project Tic Tac Toe PWA Tutorial from [Firebase](https://www.youtube.com/watch?v=G0bBLvWXBvc&t=523s). The [Nebular](https://akveo.github.io/nebular/) UI was used for styling. 
 
 ## Development server
 
